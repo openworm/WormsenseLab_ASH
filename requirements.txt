@@ -1,0 +1,9 @@
+matplotlib
+numpy
+nwbwidgets
+pandas
+pyabf
+pynwb==1.3.0
+roman
+seaborn
+xlrd
