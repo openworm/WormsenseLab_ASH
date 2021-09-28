@@ -14,7 +14,7 @@ The data can be converted by running the following command while in the src dire
 
 ```python
 python goodman_to_nwb_conversion.py
-``` 
+```
 
 This `goodman_to_nwb_conversion.py` file can be edited to convert additional datasets, overwrite existing files, or use other metadata spreadsheets (see example below).
 
@@ -34,3 +34,8 @@ Note, data is in the process of being moved here from https://github.com/OpenSou
 
 Current outstanding question and remaining to-do items for a fully converted dataset are described in the documentation: [doc/dat_to_nwb_testing.md](doc/dat_to_nwb_testing.md)
 
+### Example datasets
+
+<a href="test_data/README.md"><img src="test_data/09-03-31-1.png"/></a>
+
+A number of example converted datasets have been added to this repository [here](test_data/README.md).
